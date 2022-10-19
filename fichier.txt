@@ -1,1 +1,2 @@
 blablabla
+blabla pour l'utilisateur lambda
